@@ -1,5 +1,6 @@
 Reactjs
 ============
+######（如果是本地双击打开HTML文件，会出现跨域问题而找不到js文件，报错`Cross origin requests are only supported for protocol schemes: http, data, chrome, chrome-extension, https, chrome-extension-resource.`,此时需要运行cmd，找到chrome.exe文件所在位置，运行指令`--allow-file-access-from-files`）
 ##### 学习Reactjs
 * 概述
   * React是一个用于构建用户界面的JavaScript库
